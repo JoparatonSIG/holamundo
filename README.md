@@ -8,6 +8,7 @@ probando como funciona el git
 asdasdasdasdjdfnkijvbkdfjnvjknfdvjknf
 ## Comandos
 ndoikoi
+asdasdasd
 Para inicializar el repositorio local se crea el directorio:
 
 mkdir proyecto
