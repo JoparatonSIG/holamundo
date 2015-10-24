@@ -7,7 +7,7 @@ Test de git
 probando como funciona el git
 asdasdasdasdjdfnkijvbkdfjnvjknfdvjknf
 ## Comandos
-
+ndoikoi
 Para inicializar el repositorio local se crea el directorio:
 
 mkdir proyecto
